@@ -1,0 +1,40 @@
+.fundo{
+
+    background-color: black;
+    color: white;
+    }
+.titulo{
+    color: rgb(255, 47, 245);
+}
+.info{
+ color: white;
+}
+
+.imagem{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border-color: rgb(247, 49, 171);
+    border-style: solid;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.projetos{
+    max-width: 500px;
+    max-height: 500px;
+}
+.fundo2{
+    background-color: rgb(255, 0, 0);
+    height: 40px;
+    text-align: left;
+    font-style: oblique;
+    font-size: medium;
+    color: white;
+}
+
+.info{
+    color: rgb(24, 3, 3);
+    font-size: 30px;
+    margin-left: 20px;
+}
